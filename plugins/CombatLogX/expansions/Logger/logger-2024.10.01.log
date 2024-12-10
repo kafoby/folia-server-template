@@ -1,0 +1,758 @@
+[October 01, 2024 18:45:28.455PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:29.038PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:29.587PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:30.138PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:30.837PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:31.387PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:31.987PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:32.638PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:33.238PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:33.837PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:45:34.388PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 18:51:38.932PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager CREEPER Creeper and cancelled false.
+[October 01, 2024 18:51:38.937PM EDT]  PlayerPreTagEvent was triggered on kafoby by Creeper with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 18:51:38.943PM EDT]  PlayerTagEvent was triggered on kafoby by Creeper with type MOB and reason ATTACKED.
+[October 01, 2024 18:51:38.997PM EDT]  PlayerPunishEvent was triggered on kafoby with reason ENEMY_DEATH and cancelled true.
+[October 01, 2024 18:51:38.997PM EDT]  PlayerUntagEvent was triggered on kafoby with reason ENEMY_DEATH and expire set to true.
+[October 01, 2024 18:51:39.594PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:39.602PM EDT]  PlayerTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:41.522PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager CREEPER Creeper and cancelled false.
+[October 01, 2024 18:51:41.523PM EDT]  PlayerPreTagEvent was triggered on kafoby by Creeper with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 18:51:41.524PM EDT]  PlayerReTagEvent was triggered on kafoby by Creeper with type MOB and reason ATTACKED.
+[October 01, 2024 18:51:41.525PM EDT]  EntityDamageByEntityEvent was triggered by damaged ITEM Spruce Log, damager CREEPER Creeper and cancelled false.
+[October 01, 2024 18:51:41.525PM EDT]  EntityDamageByEntityEvent was triggered by damaged ITEM Stick, damager CREEPER Creeper and cancelled false.
+[October 01, 2024 18:51:41.526PM EDT]  EntityDamageByEntityEvent was triggered by damaged ITEM Spruce Sapling, damager CREEPER Creeper and cancelled false.
+[October 01, 2024 18:51:42.189PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:42.190PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:52.217PM EDT]  PlayerPunishEvent was triggered on kafoby with reason EXPIRE and cancelled true.
+[October 01, 2024 18:51:52.217PM EDT]  PlayerUntagEvent was triggered on kafoby with reason EXPIRE and expire set to true.
+[October 01, 2024 18:51:52.668PM EDT]  EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[October 01, 2024 18:51:53.668PM EDT]  EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager WOLF Wolf and cancelled false.
+[October 01, 2024 18:51:53.920PM EDT]  EntityDamageByEntityEvent was triggered by damaged SHEEP Sheep, damager CREEPER Creeper and cancelled false.
+[October 01, 2024 18:51:53.921PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager CREEPER Creeper and cancelled false.
+[October 01, 2024 18:51:53.921PM EDT]  PlayerPreTagEvent was triggered on kafoby by Creeper with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 18:51:53.922PM EDT]  PlayerTagEvent was triggered on kafoby by Creeper with type MOB and reason ATTACKED.
+[October 01, 2024 18:51:53.930PM EDT]  PlayerPunishEvent was triggered on kafoby with reason SELF_DEATH and cancelled true.
+[October 01, 2024 18:51:53.930PM EDT]  PlayerUntagEvent was triggered on kafoby with reason SELF_DEATH and expire set to true.
+[October 01, 2024 18:51:55.072PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:55.077PM EDT]  PlayerTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:55.569PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:55.570PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:56.070PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:56.071PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:56.569PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:56.571PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:57.072PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:57.073PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:57.568PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:57.570PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:58.069PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:58.070PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:58.569PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:58.570PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:59.072PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:59.073PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:51:59.570PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:51:59.571PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:00.087PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:00.090PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:00.573PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:00.574PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:01.071PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:01.072PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:01.579PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:01.581PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:02.070PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:02.071PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:02.568PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:02.569PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:03.070PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:03.071PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:03.569PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:03.570PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:04.068PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:04.069PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:04.569PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:04.570PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:05.070PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:05.071PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:05.569PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:05.570PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:06.068PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:06.069PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:06.570PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:06.571PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:07.069PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:07.070PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:07.074PM EDT]  PlayerPunishEvent was triggered on kafoby with reason SELF_DEATH and cancelled true.
+[October 01, 2024 18:52:07.075PM EDT]  PlayerUntagEvent was triggered on kafoby with reason SELF_DEATH and expire set to true.
+[October 01, 2024 18:52:16.016PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:16.017PM EDT]  PlayerTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:16.592PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:16.593PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:17.018PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:17.019PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:17.519PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:17.520PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:18.019PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:18.020PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:18.519PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:18.520PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:19.019PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:19.020PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:19.520PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:19.521PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:20.019PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:20.020PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:20.520PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:20.521PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:21.039PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:21.040PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:21.519PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:21.520PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:22.020PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:22.020PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:22.519PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:22.520PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:23.018PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:23.019PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:23.520PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:23.521PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:24.019PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:24.020PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:24.520PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:24.522PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:25.019PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:25.020PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:25.519PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:25.520PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:26.018PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:26.019PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:26.519PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:26.520PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:26.828PM EDT]  PlayerPunishEvent was triggered on kafoby with reason QUIT and cancelled false.
+[October 01, 2024 18:52:26.844PM EDT]  PlayerUntagEvent was triggered on kafoby with reason QUIT and expire set to false.
+[October 01, 2024 18:52:36.216PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:36.217PM EDT]  PlayerTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:36.719PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:36.720PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:37.220PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:37.221PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:37.719PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:37.720PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:38.220PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:38.221PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:38.720PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:38.721PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:39.218PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:39.219PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:39.720PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:39.721PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:40.220PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:40.221PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:40.720PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:40.721PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:41.219PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:41.220PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:41.721PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:41.722PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:42.219PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:42.220PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:42.723PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:42.724PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:43.219PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:43.220PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:43.720PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:43.721PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:44.220PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:44.221PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:44.721PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:44.722PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:45.221PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:45.222PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:45.720PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:45.721PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:46.219PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:46.220PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:46.721PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:46.722PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:47.220PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:47.220PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:47.720PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:47.721PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:48.219PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:48.220PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:48.222PM EDT]  PlayerPunishEvent was triggered on kafoby with reason SELF_DEATH and cancelled true.
+[October 01, 2024 18:52:48.222PM EDT]  PlayerUntagEvent was triggered on kafoby with reason SELF_DEATH and expire set to true.
+[October 01, 2024 18:52:49.318PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:49.319PM EDT]  PlayerTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:49.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:49.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:50.321PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:50.322PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:50.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:50.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:51.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:51.320PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:51.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:51.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:52.320PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:52.321PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:52.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:52.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:53.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:53.320PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:53.820PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:53.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:54.320PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:54.321PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:54.820PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:54.821PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:55.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:55.320PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:55.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:55.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:56.320PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:56.321PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:56.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:56.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:57.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:57.320PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:57.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:57.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:58.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:58.320PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:58.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:58.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:59.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:59.320PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:52:59.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:52:59.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:53:00.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:53:00.320PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:53:00.819PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:53:00.820PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:53:01.319PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 18:53:01.319PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 18:53:01.322PM EDT]  PlayerPunishEvent was triggered on kafoby with reason SELF_DEATH and cancelled true.
+[October 01, 2024 18:53:01.322PM EDT]  PlayerUntagEvent was triggered on kafoby with reason SELF_DEATH and expire set to true.
+[October 01, 2024 21:18:53.432PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:53.499PM EDT]  PlayerTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:53.932PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:53.933PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:54.477PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:54.478PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:54.932PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:54.933PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:55.447PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:55.449PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:55.930PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:55.931PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:56.431PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:56.432PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:56.932PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:56.933PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:57.432PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:57.433PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:57.930PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:57.931PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:58.432PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:58.433PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:58.932PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:58.933PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:59.434PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:59.435PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:18:59.930PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:18:59.931PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:00.431PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:00.432PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:00.930PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:00.931PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:01.428PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:01.429PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:01.927PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:01.928PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:02.427PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:02.428PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:02.927PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:02.928PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:03.426PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:03.427PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:03.927PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:03.928PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:04.427PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:04.428PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:04.927PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:04.928PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:05.427PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:05.428PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:05.441PM EDT]  PlayerPunishEvent was triggered on kafoby with reason SELF_DEATH and cancelled true.
+[October 01, 2024 21:19:05.441PM EDT]  PlayerUntagEvent was triggered on kafoby with reason SELF_DEATH and expire set to true.
+[October 01, 2024 21:19:06.877PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:06.878PM EDT]  PlayerTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:07.379PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:07.380PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:07.878PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:07.879PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:19:08.377PM EDT]  PlayerPreTagEvent was triggered on kafoby by Unknown with type DAMAGE, reason UNKNOWN, and cancelled false.
+[October 01, 2024 21:19:08.378PM EDT]  PlayerReTagEvent was triggered on kafoby by Unknown with type DAMAGE and reason UNKNOWN.
+[October 01, 2024 21:23:51.531PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.576PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.636PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.682PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.729PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.780PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.830PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.880PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.929PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:51.980PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.028PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.078PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.127PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.179PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.236PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.276PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.327PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.376PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.426PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.477PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.525PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.576PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.627PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:52.675PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.276PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.325PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.375PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.426PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.476PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.525PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.575PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.626PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.676PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.726PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.775PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.828PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.877PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:53.926PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:23:55.402PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:55.889PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:56.039PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:56.189PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:56.339PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:56.838PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:57.739PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:58.239PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:59.138PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:59.588PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:59.739PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:23:59.838PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:24:00.089PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:24:03.788PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:24:03.938PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:24:33.675PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:33.725PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:33.775PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:33.825PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:33.875PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:33.925PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:33.975PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.025PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.075PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.125PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.175PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.226PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.274PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.325PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.375PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.424PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.474PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.525PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.575PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.625PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.675PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.725PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.776PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.825PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.876PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.925PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:34.976PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.025PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.074PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.125PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.175PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.225PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.275PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.325PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.375PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.425PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.475PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.527PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.576PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.627PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.676PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.726PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:24:35.815PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled true.
+[October 01, 2024 21:25:24.926PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:24.932PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:24.937PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:25.273PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:25.273PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:25.275PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:27.546PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:27.546PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:27.547PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:28.450PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:28.451PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:28.452PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:29.632PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER NerfWarrior784 and cancelled false.
+[October 01, 2024 21:25:29.633PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKER, and cancelled false.
+[October 01, 2024 21:25:29.636PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKER.
+[October 01, 2024 21:25:30.338PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER NerfWarrior784 and cancelled false.
+[October 01, 2024 21:25:30.338PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKER, and cancelled false.
+[October 01, 2024 21:25:30.340PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKER.
+[October 01, 2024 21:25:33.539PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:25:39.044PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:39.044PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:39.045PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:39.843PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:39.843PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:39.844PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:41.194PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:41.194PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:41.196PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:42.143PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:25:42.143PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:25:42.145PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:25:52.592PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:25:52.593PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:26:18.704PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 21:26:26.690PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 21:26:26.691PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 21:26:26.693PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 21:26:26.739PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER NerfWarrior784 and cancelled false.
+[October 01, 2024 21:26:37.091PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:26:37.091PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:26:53.190PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:26:53.190PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:26:53.191PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:26:53.192PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:27:03.591PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:27:03.591PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:27:19.539PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:27:19.539PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:27:19.540PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:27:19.542PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:27:29.592PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:27:29.593PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:28:35.893PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:28:35.894PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:28:35.895PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:28:36.893PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:28:36.893PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:28:36.894PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:28:38.043PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:28:38.043PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:28:38.044PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:28:38.944PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:28:38.944PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:28:38.945PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:28:39.738PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER NerfWarrior784 and cancelled false.
+[October 01, 2024 21:28:39.738PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKER, and cancelled false.
+[October 01, 2024 21:28:39.739PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKER.
+[October 01, 2024 21:28:40.337PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER NerfWarrior784 and cancelled false.
+[October 01, 2024 21:28:40.337PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKER, and cancelled false.
+[October 01, 2024 21:28:40.338PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKER.
+[October 01, 2024 21:28:41.894PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:28:41.894PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:28:41.895PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:28:43.944PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:28:43.944PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:28:43.945PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:28:44.843PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:28:44.843PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:28:44.844PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:28:45.200PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason QUIT and cancelled false.
+[October 01, 2024 21:28:45.262PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason QUIT and expire set to false.
+[October 01, 2024 21:29:22.194PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:29:22.194PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:29:22.195PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:29:23.543PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:29:23.544PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:29:23.545PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:29:24.943PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:29:24.943PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:29:24.944PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:29:25.443PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:29:25.443PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:29:25.444PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:29:26.643PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:29:26.643PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:29:26.644PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:29:27.142PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:29:27.143PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:29:27.144PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:29:27.642PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:29:27.643PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:29:27.644PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:29:27.647PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason SELF_DEATH and cancelled true.
+[October 01, 2024 21:29:27.647PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason SELF_DEATH and expire set to true.
+[October 01, 2024 21:33:09.489PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:33:10.089PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:33:10.689PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:33:11.488PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:33:12.238PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:33:13.039PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:33:34.589PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:33:34.589PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:34.590PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:33:34.591PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:33:37.994PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager ZOMBIE Zombie and cancelled false.
+[October 01, 2024 21:33:37.994PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:37.995PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Zombie with type MOB and reason ATTACKED.
+[October 01, 2024 21:33:38.892PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager ZOMBIE Zombie and cancelled false.
+[October 01, 2024 21:33:38.893PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:38.894PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Zombie with type MOB and reason ATTACKED.
+[October 01, 2024 21:33:39.893PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager ZOMBIE Zombie and cancelled false.
+[October 01, 2024 21:33:39.893PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:39.894PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Zombie with type MOB and reason ATTACKED.
+[October 01, 2024 21:33:40.492PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager ZOMBIE Zombie and cancelled false.
+[October 01, 2024 21:33:40.493PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:40.494PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Zombie with type MOB and reason ATTACKED.
+[October 01, 2024 21:33:41.043PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager ZOMBIE Zombie and cancelled false.
+[October 01, 2024 21:33:41.043PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:41.044PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Zombie with type MOB and reason ATTACKED.
+[October 01, 2024 21:33:41.893PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager ZOMBIE Zombie and cancelled false.
+[October 01, 2024 21:33:41.893PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:41.895PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Zombie with type MOB and reason ATTACKED.
+[October 01, 2024 21:33:42.643PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager ZOMBIE Zombie and cancelled false.
+[October 01, 2024 21:33:42.643PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Zombie with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:33:42.645PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Zombie with type MOB and reason ATTACKED.
+[October 01, 2024 21:33:42.648PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason SELF_DEATH and cancelled true.
+[October 01, 2024 21:33:42.648PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason SELF_DEATH and expire set to true.
+[October 01, 2024 21:36:00.189PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:36:00.189PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:36:00.191PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:36:00.192PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:36:10.590PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:36:10.591PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:37:10.244PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:37:10.244PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:37:10.245PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:37:11.547PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:37:11.547PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:37:11.549PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:37:11.557PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason SELF_DEATH and cancelled true.
+[October 01, 2024 21:37:11.558PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason SELF_DEATH and expire set to true.
+[October 01, 2024 21:37:19.839PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:37:20.338PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:37:20.938PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:37:21.488PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:37:43.389PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:37:43.390PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:37:43.391PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:37:43.392PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:37:53.591PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:37:53.591PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:38:20.789PM EDT]  EntityDamageByEntityEvent was triggered by damaged SPIDER Spider, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:38:22.243PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager SPIDER Spider and cancelled false.
+[October 01, 2024 21:38:23.543PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager SPIDER Spider and cancelled false.
+[October 01, 2024 21:38:28.139PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:38:28.139PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:38:28.140PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:38:28.141PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:38:38.593PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:38:38.593PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:39:48.338PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:39:48.339PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:39:48.339PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:39:48.340PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:39:58.592PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:39:58.592PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:40:42.739PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:40:42.739PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:40:42.741PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:40:42.741PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:51.888PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:52.488PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:53.092PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:40:53.093PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:40:53.188PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:53.794PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:54.390PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:54.939PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:55.539PM EDT]  EntityDamageByEntityEvent was triggered by damaged SLIME Slime, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:40:58.338PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:40:58.338PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:40:58.339PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:40:58.340PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:41:08.591PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:41:08.591PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:41:36.489PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:41:36.489PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:41:36.491PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:41:36.491PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:41:39.988PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:41:39.988PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:41:39.989PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:41:39.989PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:41:46.793PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:41:46.794PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:41:46.795PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:41:48.194PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:41:48.194PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:41:48.195PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:41:49.243PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager SLIME Slime and cancelled false.
+[October 01, 2024 21:41:49.244PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by Slime with type MOB, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:41:49.245PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by Slime with type MOB and reason ATTACKED.
+[October 01, 2024 21:41:59.591PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:41:59.591PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:42:30.889PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:42:30.889PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:42:30.890PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:42:30.890PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:42:41.091PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:42:41.091PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:43:01.139PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:43:01.139PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:43:01.140PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:43:01.141PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:43:11.591PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:43:11.591PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:44:07.688PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:44:07.689PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:44:07.690PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:44:07.690PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:44:18.091PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:44:18.091PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:44:21.539PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:44:21.539PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:44:21.540PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:44:21.540PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:44:31.591PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:44:31.591PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:44:58.188PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:44:58.189PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:44:58.190PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:44:58.190PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:02.939PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:02.939PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:02.940PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:02.941PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:06.589PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:06.589PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:06.591PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:06.591PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:07.840PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:07.840PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:07.841PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:07.842PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:08.440PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:08.440PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:08.441PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:08.441PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:08.989PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:08.989PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:08.990PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:08.990PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:09.539PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:09.540PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:09.540PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:09.541PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:10.488PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:10.488PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:10.489PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:10.489PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:10.988PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:10.988PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:10.989PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:10.989PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:11.538PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:11.539PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:11.540PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:11.540PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:12.039PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:12.039PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:12.040PM EDT]  PlayerReTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:12.040PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:45:22.091PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:45:22.091PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:45:56.890PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:45:56.890PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:45:56.891PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:45:56.891PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:46:07.090PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason EXPIRE and cancelled true.
+[October 01, 2024 21:46:07.090PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason EXPIRE and expire set to true.
+[October 01, 2024 21:47:23.639PM EDT]  PlayerPreTagEvent was triggered on kafoby by NerfWarrior784 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 21:47:23.639PM EDT]  PlayerPreTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 21:47:23.640PM EDT]  PlayerTagEvent was triggered on NerfWarrior784 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 21:47:23.641PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER NerfWarrior784, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 21:47:31.996PM EDT]  PlayerPunishEvent was triggered on NerfWarrior784 with reason QUIT and cancelled false.
+[October 01, 2024 21:47:32.023PM EDT]  PlayerUntagEvent was triggered on NerfWarrior784 with reason QUIT and expire set to false.
+[October 01, 2024 21:52:12.892PM EDT]  EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager FOX Fox and cancelled false.
+[October 01, 2024 21:52:12.941PM EDT]  EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager FOX Fox and cancelled false.
+[October 01, 2024 21:52:13.591PM EDT]  EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager FOX Fox and cancelled false.
+[October 01, 2024 21:52:13.891PM EDT]  EntityDamageByEntityEvent was triggered by damaged RABBIT Rabbit, damager FOX Fox and cancelled false.
+[October 01, 2024 23:13:17.982PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER agentulgamer07, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 23:13:27.543PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER agentulgamer07, damager PLAYER kafoby and cancelled true.
+[October 01, 2024 23:13:29.555PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:13:29.563PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:13:29.578PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:13:29.624PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:13:38.739PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:13:38.740PM EDT]  PlayerReTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:13:38.740PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:13:38.741PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:13:49.196PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:13:49.196PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:14:34.839PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:14:34.840PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:14:34.840PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:14:34.841PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:14:45.197PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:14:45.198PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:14:51.239PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:14:51.241PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:14:51.241PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:14:51.241PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:15:01.696PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:15:01.698PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:15:02.487PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKER, and cancelled true.
+[October 01, 2024 23:15:02.487PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
+[October 01, 2024 23:15:02.488PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKED.
+[October 01, 2024 23:15:02.488PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER agentulgamer07, damager PLAYER kafoby and cancelled false.
+[October 01, 2024 23:15:12.695PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:15:12.695PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:15:32.639PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:15:32.640PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:15:32.640PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:15:32.640PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:15:37.439PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:15:37.441PM EDT]  PlayerReTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:15:37.441PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:15:37.441PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:15:47.695PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:15:47.697PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:15:51.989PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:15:51.990PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:15:51.990PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:15:51.990PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:16:02.196PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:16:02.198PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:16:05.139PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:16:05.140PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:16:05.140PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:16:05.140PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:16:15.197PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:16:15.197PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:16:43.388PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:16:43.390PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:16:43.391PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:16:43.391PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:16:53.695PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:16:53.696PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.
+[October 01, 2024 23:17:20.040PM EDT]  PlayerPreTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER, reason ATTACKER, and cancelled false.
+[October 01, 2024 23:17:20.041PM EDT]  PlayerTagEvent was triggered on agentulgamer07 by kafoby with type PLAYER and reason ATTACKER.
+[October 01, 2024 23:17:20.041PM EDT]  PlayerPreTagEvent was triggered on kafoby by agentulgamer07 with type PLAYER, reason ATTACKED, and cancelled true.
+[October 01, 2024 23:17:20.042PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER kafoby, damager PLAYER agentulgamer07 and cancelled false.
+[October 01, 2024 23:17:30.197PM EDT]  PlayerPunishEvent was triggered on agentulgamer07 with reason EXPIRE and cancelled true.
+[October 01, 2024 23:17:30.198PM EDT]  PlayerUntagEvent was triggered on agentulgamer07 with reason EXPIRE and expire set to true.

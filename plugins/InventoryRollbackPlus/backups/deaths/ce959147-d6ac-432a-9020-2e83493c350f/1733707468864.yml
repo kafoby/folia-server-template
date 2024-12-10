@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 20
+saturation: 11.0
+location:
+  world: world
+  x: 91.3
+  y: 79.0
+  z: 21.8
+logType: DEATH
+version: v1_21_R1
+deathReason: ENTITY_ATTACK (Zeonyth)

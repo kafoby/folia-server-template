@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.241.196.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733791242917
+  login: 1733791227792
+money: '0'
+last-account-name: milopolo09
+logoutlocation:
+  world: 686cfdc4-911c-4639-a4ee-976b05e4a09c
+  world-name: world
+  x: -146.54616328143567
+  y: -57.0
+  z: 518.8434610037858
+  yaw: -3.2471816539764404
+  pitch: 20.170503616333008

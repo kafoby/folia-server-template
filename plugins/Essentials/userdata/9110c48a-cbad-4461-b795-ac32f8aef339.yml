@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.33.165.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733706414088
+  login: 1733704262271
+money: '0'
+last-account-name: Ilovemydogs_156
+logoutlocation:
+  world: 686cfdc4-911c-4639-a4ee-976b05e4a09c
+  world-name: world
+  x: 2512.588832101907
+  y: -28.0
+  z: -364.23363186507163
+  yaw: 82.80023193359375
+  pitch: 15.750033378601074

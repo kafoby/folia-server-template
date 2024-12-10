@@ -1,0 +1,59 @@
+# This is the default configuration for EntityCulling.
+# You can configure the settings here.
+#  
+# The world filters to be used by the anti-xray.
+# When any of the world filters match, the configuration will be used.
+# Check documentation for syntaxes: https://docs.imanity.dev/antixray/configurations#world-filter
+worldFilters:
+- '*'
+# The type of the config.
+# Config system will first search for the config with CUSTOM type.
+# If not found, it will search for the config with DEFAULT type.
+type: DEFAULT
+# Should entity culling be enabled?
+enabled: true
+# The maximum distance to execute entity culling.
+maxDistance: 64.0
+# The bounding box expand for entity culling.
+boundingBoxExpansion: 0.5
+# The raytrace ticking rate for each player. (in ticks, 1 ticks = 50ms)
+raytraceRate: 1
+# Should the plugin allow wall clipping for entity culling?
+# For example: In spectator mode, you can clip through walls, so when you are in a wall, you can see entities behind the wall.
+# This feature is useful for players who are in spectator mode, and should not affect the gameplay.
+allowWallClipping: false
+# The entity types to be culled.
+# List of entity types: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+entityTypes:
+- PLAYER
+- ENDERMAN
+- BLAZE
+- WITCH
+- MINECART
+- MINECART_CHEST
+- MINECART_FURNACE
+- MINECART_MOB_SPAWNER
+- MINECART_TNT
+- ITEM_FRAME
+- GLOW_ITEM_FRAME
+- PAINTING
+- PRIMED_TNT
+# The special settings for each entity type for entity culling.
+specials:
+  # Should the player only be sneaking to be culled?
+  # This is due to player having a name tag, which is still visible when blocked by blocks.
+  playerOnlySneaking: false
+  # Should the entity be culled even if it has glowing effect?
+  showGlowing: true
+  # The entity display range when viewer has blindness effect
+  blindnessShortenRange: 5.0
+# The update rate for each entity type for entity culling.
+updateRate:
+  # The default rate for all entities.
+  defaultRate: 3
+  # The rate when viewer is moving.
+  movingRate: 1
+  # The rate when target is a player.
+  playerRate: 1
+  # The rate when target is a projectile.
+  projectileRate: 1

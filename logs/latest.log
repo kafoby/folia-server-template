@@ -1,0 +1,363 @@
+[01:43:44] [ServerMain/INFO]: [bootstrap] Running Java 23 (OpenJDK 64-Bit Server VM 23; Arch Linux null) on Linux 6.11.6-arch1-1 (amd64)
+[01:43:44] [ServerMain/INFO]: [bootstrap] Loading Folia 1.21.1-DEV-dev/1.21.1@2e7bc07 (2024-11-25T20:58:33Z) for Minecraft 1.21.1
+[01:43:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'SentinelSwords v1.0-ALPHA' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'SentinelSwords v1.0-ALPHA' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'BetterTeams v4.10.0' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'BetterTeams v4.10.0' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'SentinelSpawn v1.0' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'SentinelSpawn v1.0' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'InventoryRollbackPlus v1.6.21' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'InventoryRollbackPlus v1.6.21' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'KafobyTweaks v1.0' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'KafobyTweaks v1.0' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'KafobyCooldowns v1.0' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'KafobyCooldowns v1.0' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'NoMoreNetherite v1.0' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'NoMoreNetherite v1.0' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'WeHateOurPlayers v1.0' as it is not marked as supporting Folia!
+java.lang.RuntimeException: Could not load plugin 'WeHateOurPlayers v1.0' as it is not marked as supporting Folia!
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.type.PluginFileType.register(PluginFileType.java:72) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:96) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:52) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:17) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:15) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:113) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at net.minecraft.server.Main.main(Main.java:123) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[folia-1.21.1.jar:1.21.1-DEV-2e7bc07]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+[01:43:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 22 plugins
+[01:43:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (22):
+ - AntiSeedCracker (1.2.2), BlueSlimeCore (2.9.6.431), Chunky (1.4.10), Chunky (1.4.28), ChunkyBorder (1.2.13), CommandBlocker (1.4.1), Essentials (2.21.0-dev+139-45c0201-Folia), EssentialsSpawn (2.21.0-dev+139-45c0201-Folia), FreedomChat (1.7.0), GrimAC (2.3.67), LuckPerms (5.4.141), ProtocolLib (5.3.0-SNAPSHOT-732), Vault (2.7.0), ViaBackwards (5.2.0), ViaVersion (5.2.0), WorldEdit (7.3.10-SNAPSHOT+dcc2726-Folia), WorldGuard (7.0.13-SNAPSHOT+4ccce1c), fairy-lib-plugin (0.7.9b4-SNAPSHOT), raytraced-antixray (0.14.1beta), raytraced-entity-culling (0.14.1beta), raytraced-tile-culling (0.14.1beta), voicechat (2.5.20)
+[01:43:53] [ServerMain/WARN]: resource-pack-id missing, using default of d60b8861-93d6-309a-8a25-f9c9a36c430a
+[01:43:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:43:56] [ServerMain/INFO]: Loaded 1290 recipes
+[01:43:56] [ServerMain/INFO]: Loaded 1399 advancements
+[01:43:57] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:43:57] [Server thread/INFO]: Loading properties
+[01:43:58] [Server thread/INFO]: This server is running Folia version 1.21.1-DEV-dev/1.21.1@2e7bc07 (2024-11-25T20:58:33Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[01:43:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:43:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:43:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:44:00] [Server thread/WARN]: [!] The timings system cannot be enabled on Folia, and has been scheduled for removal from Paper in the future.
+    We recommend migrating to the spark profiler.
+    For more information please visit: https://github.com/PaperMC/Paper/discussions/10565
+[01:44:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:44:01] [Server thread/INFO]: [io.papermc.paper.threadedregions.TickRegions] Regionised ticking is enabled with 1 tick threads
+[01:44:01] [Server thread/INFO]: Default game type: SURVIVAL
+[01:44:01] [Server thread/INFO]: Generating keypair
+[01:44:01] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[01:44:01] [Server thread/INFO]: Using epoll channel type
+[01:44:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:44:01] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[01:44:01] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Chunky' for files 'plugins/81534 - Chunky.jar' and 'plugins/Chunky-Bukkit-1.4.28.jar' in 'plugins'
+[01:44:02] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-antixray] Loading 2 libraries... please wait
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-antixray] Loaded library /home/kfb/Downloads/server/libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-antixray] Loaded library /home/kfb/Downloads/server/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-antixray] Loaded library /home/kfb/Downloads/server/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-tile-culling] Loading 2 libraries... please wait
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-tile-culling] Loaded library /home/kfb/Downloads/server/libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-tile-culling] Loaded library /home/kfb/Downloads/server/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-tile-culling] Loaded library /home/kfb/Downloads/server/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-entity-culling] Loading 2 libraries... please wait
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-entity-culling] Loaded library /home/kfb/Downloads/server/libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-entity-culling] Loaded library /home/kfb/Downloads/server/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.jar
+[01:44:03] [Server thread/INFO]: [SpigotLibraryLoader] [raytraced-entity-culling] Loaded library /home/kfb/Downloads/server/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[01:44:03] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[01:44:03] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[01:44:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:44:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:44:05] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[01:44:05] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[01:44:06] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.141
+[01:44:07] [Server thread/INFO]: [Vault] Loading server plugin Vault v2.7.0
+[01:44:07] [Server thread/INFO]: [fairy-lib-plugin] Loading server plugin fairy-lib-plugin v0.7.9b4-SNAPSHOT
+[01:44:07] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-SNAPSHOT+dcc2726-Folia
+[01:44:09] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1b4bc3e9]
+[01:44:09] [Server thread/INFO]: [raytraced-antixray] Loading server plugin raytraced-antixray v0.14.1beta
+[01:44:09] [Server thread/INFO]: [WARN] Unable to identify the Bukkit custom payload type
+[01:44:09] [Server thread/WARN]: [REFLECTION] Method modifiers of net.minecraft.world.entity.Entity (EntityTrackerEntryHandle) net.minecraft.server.level.EntityTrackerEntry moonrise$getTrackedEntity(); do not match (public final expected)
+[01:44:09] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-732
+[01:44:10] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.1) has not yet been tested! Proceed with caution.
+[01:44:10] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
+[01:44:10] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+139-45c0201-Folia
+[01:44:10] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.0
+[01:44:10] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-SNAPSHOT+4ccce1c
+[01:44:10] [Server thread/INFO]: [CommandBlocker] Loading server plugin CommandBlocker v1.4.1
+[01:44:10] [Server thread/INFO]: [raytraced-tile-culling] Loading server plugin raytraced-tile-culling v0.14.1beta
+[01:44:10] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.20
+[01:44:10] [Server thread/INFO]: [AntiSeedCracker] Loading server plugin AntiSeedCracker v1.2.2
+[01:44:10] [Server thread/INFO]: [ChunkyBorder] Loading server plugin ChunkyBorder v1.2.13
+[01:44:10] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
+[01:44:10] [Server thread/INFO]: [FreedomChat] Loading server plugin FreedomChat v1.7.0
+[01:44:10] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+139-45c0201-Folia
+[01:44:10] [Server thread/INFO]: [GrimAC] Loading server plugin GrimAC v2.3.67
+[01:44:10] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
+[01:44:15] [Server thread/INFO]: [raytraced-entity-culling] Loading server plugin raytraced-entity-culling v0.14.1beta
+[01:44:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:44:15] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[01:44:16] [Server thread/INFO]:         __    
+[01:44:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.141
+[01:44:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Folia
+[01:44:16] [Server thread/INFO]: 
+[01:44:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:44:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:44:18] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:44:18] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:44:18] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2932ms)
+[01:44:18] [Server thread/INFO]: [Vault] Enabling Vault v2.7.0
+[01:44:18] [Server thread/INFO]: [Vault] Enabled Version 2.7.0
+[01:44:18] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[01:44:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-SNAPSHOT+dcc2726-Folia
+[01:44:18] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:44:18] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[01:44:19] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[01:44:22] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-732
+[01:44:22] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
+[01:44:22] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
+[01:44:22] [Server thread/INFO]: [Blue Slime Core] Detected server as Folia.
+[01:44:22] [Server thread/INFO]: Preparing level "world"
+[01:44:23] [Folia Async Scheduler Thread #1/INFO]: [Blue Slime Core]  
+[01:44:23] [Folia Async Scheduler Thread #1/INFO]: [Blue Slime Core] [Update Checker] Found a possible update for plugin 'BlueSlimeCore'.
+[01:44:23] [Folia Async Scheduler Thread #1/INFO]: [Blue Slime Core] [Update Checker] Local Version: 2.9.6.431
+[01:44:23] [Folia Async Scheduler Thread #1/INFO]: [Blue Slime Core] [Update Checker] Remote Version: 2.9.6.448
+[01:44:23] [Folia Async Scheduler Thread #1/INFO]: [Blue Slime Core] [Update Checker] Download Link: https://hangar.papermc.io/SirBlobman/BlueSlimeCore
+[01:44:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:44:23] [Server thread/INFO]: Time elapsed: 1 ms
+[01:44:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:44:23] [Server thread/INFO]: Time elapsed: 0 ms
+[01:44:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:44:23] [Server thread/INFO]: Time elapsed: 0 ms
+[01:44:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[01:44:23] [Server thread/INFO]: [fairy-lib-plugin] Enabling fairy-lib-plugin v0.7.9b4-SNAPSHOT
+[01:44:26] [Server thread/INFO]: Version mappings loaded successfully!
+[01:44:30] [Server thread/INFO]: Attempting to inject global event listeners...
+[01:44:30] [Server thread/INFO]: Successfully injected global event listeners.
+[01:44:31] [Server thread/INFO]: Fairy Lib Plugin enabled.
+[01:44:31] [Server thread/INFO]: [raytraced-antixray] Enabling raytraced-antixray v0.14.1beta
+[01:44:31] [Server thread/INFO]: [WARN] You are not using Aikar's flags, you may experience some performance & memory allocation issue without it!
+[01:44:31] [Server thread/INFO]: [WARN] Unless you have a properly configured flags, we would recommend you to use it: https://docs.papermc.io/paper/aikars-flags
+[01:44:32] [Server thread/INFO]: [RaytraceAntiXray] Successfully hooked into WorldEdit 7.3.10-SNAPSHOT+dcc2726-Folia
+[01:44:32] [Server thread/INFO]: Using PaperBlockBreakListener
+[01:44:32] [Server thread/INFO]: RaytraceAntiXray has been enabled with bukkit version 1.21.1-DEV-2e7bc07 (MC: 1.21.1) & plugin version 0.14.1beta!
+[01:44:32] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
+[01:44:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+139-45c0201-Folia
+[01:44:33] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[01:44:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:44:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:44:34] [Server thread/INFO]: [Essentials] Loaded 42779 items from items.json.
+[01:44:34] [Server thread/INFO]: [Essentials] Using locale en_US
+[01:44:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:44:34] [Folia Async Scheduler Thread #3/INFO]: [Essentials] Fetching version information...
+[01:44:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:44:34] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[01:44:34] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.0
+[01:44:34] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-SNAPSHOT+4ccce1c
+[01:44:35] [Folia Async Scheduler Thread #3/WARN]: [Essentials] Unable to check your version! Self-built? Build information: id:'2.21.0-dev+139-45c0201-Folia' branch:'folia-patches' isDev:false.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[01:44:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[01:44:35] [Server thread/INFO]: [WorldGuard] Loading region data...
+[01:44:36] [Server thread/INFO]: [CommandBlocker] Enabling CommandBlocker v1.4.1
+[01:44:36] [Server thread/INFO]: [raytraced-tile-culling] Enabling raytraced-tile-culling v0.14.1beta
+[01:44:37] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.20
+[01:44:37] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
+[01:44:37] [Server thread/INFO]: [voicechat] Compatibility version 18
+[01:44:37] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[01:44:37] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[01:44:37] [Server thread/INFO]: [AntiSeedCracker] Enabling AntiSeedCracker v1.2.2
+[01:44:37] [Server thread/INFO]: [ChunkyBorder] Enabling ChunkyBorder v1.2.13
+[01:44:37] [Server thread/INFO]: [FreedomChat] Enabling FreedomChat v1.7.0
+[01:44:37] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+139-45c0201-Folia
+[01:44:37] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[01:44:37] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.67
+[01:44:37] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
+[01:44:37] [Server thread/INFO]: [GrimAC] Registering packets...
+[01:44:37] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
+[01:44:37] [Server thread/INFO]: [GrimAC] [ACF] Enabled Asynchronous Tab Completion Support!
+[01:44:38] [Server thread/INFO]: [raytraced-entity-culling] Enabling raytraced-entity-culling v0.14.1beta
+[01:44:38] [Server thread/INFO]: [spark] The spark plugin has been preferred but was not loaded. The bundled spark profiler will enabled instead.
+[01:44:38] [Server thread/INFO]: [spark] The spark profiler will not be enabled because it is currently disabled in the configuration.
+[01:44:38] [Server thread/INFO]: Done preparing level "world" (16.329s)
+[01:44:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[01:44:39] [Via Async Scheduler 0/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:44:39] [Server thread/INFO]: Done (41.238s)! For help, type "help"
+[01:44:39] [Region Scheduler Thread #0/INFO]: Using DirectChunkCacheJ17 for world world
+[01:44:39] [Region Scheduler Thread #0/INFO]: Using DirectChunkCacheJ17 for world world_nether
+[01:44:39] [Region Scheduler Thread #0/INFO]: Using DirectChunkCacheJ17 for world world_the_end
+[01:44:40] [Region Scheduler Thread #0/INFO]: Configuration 'plugins/raytraced-antixray/config/default-overworld.yml was loaded for world 'world'
+[01:44:40] [Region Scheduler Thread #0/INFO]: Configuration 'plugins/raytraced-antixray/config/default-nether.yml was loaded for world 'world_nether'
+[01:44:40] [Region Scheduler Thread #0/INFO]: Configuration 'plugins/raytraced-antixray/config/default-the-end.yml was loaded for world 'world_the_end'
+[01:44:40] [Region Scheduler Thread #0/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v2.7.0)!
+[01:44:40] [Region Scheduler Thread #0/INFO]: [voicechat] Loading plugins
+[01:44:40] [Region Scheduler Thread #0/INFO]: [voicechat] Loaded 0 plugin(s)
+[01:44:40] [Region Scheduler Thread #0/INFO]: [voicechat] Initializing plugins
+[01:44:40] [Region Scheduler Thread #0/INFO]: [voicechat] Initialized 0 plugin(s)
+[01:44:40] [VoiceChatServerThread/INFO]: [voicechat] Using server-ip as bind address: 0.0.0.0
+[01:44:40] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 0.0.0.0:24454
+[01:44:41] [Region Scheduler Thread #0/INFO]: Initialising world 'world' before it can be ticked...
+[01:44:42] [Region Scheduler Thread #0/INFO]: Initialised world 'world'
+[01:44:42] [Region Scheduler Thread #0/INFO]: Timings Reset
+[01:44:44] [Region Scheduler Thread #0/INFO]: Initialising world 'world_nether' before it can be ticked...
+[01:44:44] [Region Scheduler Thread #0/INFO]: Initialised world 'world_nether'
+[01:44:44] [Region Scheduler Thread #0/INFO]: Initialising world 'world_the_end' before it can be ticked...
+[01:44:44] [Region Scheduler Thread #0/INFO]: Initialised world 'world_the_end'
+[01:45:30] [Region shutdown thread/INFO]: [RegionShutdownThread] Awaiting scheduler termination for 60s
+[01:45:30] [Region shutdown thread/INFO]: [RegionShutdownThread] Scheduler halted
+[01:45:30] [Region shutdown thread/INFO]: Stopping server
+[01:45:30] [Region shutdown thread/INFO]: [raytraced-entity-culling] Disabling raytraced-entity-culling v0.14.1beta
+[01:45:30] [Region shutdown thread/INFO]: [GrimAC] Disabling GrimAC v2.3.67
+[01:45:30] [Region shutdown thread/INFO]: [GrimAC] Terminating PacketEvents...
+[01:45:30] [Region shutdown thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0-dev+139-45c0201-Folia
+[01:45:30] [Region shutdown thread/INFO]: [FreedomChat] Disabling FreedomChat v1.7.0
+[01:45:30] [Region shutdown thread/INFO]: [Blue Slime Core] Disabling BlueSlimeCore v2.9.6.431
+[01:45:30] [Region shutdown thread/INFO]: [ChunkyBorder] Disabling ChunkyBorder v1.2.13
+[01:45:30] [Region shutdown thread/INFO]: [AntiSeedCracker] Disabling AntiSeedCracker v1.2.2
+[01:45:30] [Region shutdown thread/INFO]: [voicechat] Disabling voicechat v2.5.20
+[01:45:30] [Region shutdown thread/INFO]: [raytraced-tile-culling] Disabling raytraced-tile-culling v0.14.1beta
+[01:45:30] [Region shutdown thread/INFO]: [CommandBlocker] Disabling CommandBlocker v1.4.1
+[01:45:30] [Region shutdown thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-SNAPSHOT+4ccce1c
+[01:45:30] [Region shutdown thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[01:45:30] [Region shutdown thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
+[01:45:30] [Region shutdown thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+139-45c0201-Folia
+[01:45:30] [Region shutdown thread/INFO]: [Chunky] Disabling Chunky v1.4.10
+[01:45:30] [Region shutdown thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0-SNAPSHOT-732
+[01:45:30] [Region shutdown thread/INFO]: [raytraced-antixray] Disabling raytraced-antixray v0.14.1beta
+[01:45:30] [Region shutdown thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-SNAPSHOT+dcc2726-Folia
+[01:45:30] [Region shutdown thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:45:30] [Region shutdown thread/INFO]: [fairy-lib-plugin] Disabling fairy-lib-plugin v0.7.9b4-SNAPSHOT
+[01:45:30] [Region shutdown thread/INFO]: [Vault] Disabling Vault v2.7.0
+[01:45:30] [Region shutdown thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.141
+[01:45:30] [Region shutdown thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:45:30] [Region shutdown thread/INFO]: [LuckPerms] Closing storage...
+[01:45:30] [Region shutdown thread/INFO]: [LuckPerms] Goodbye!
+[01:45:30] [Region shutdown thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[01:45:30] [Region shutdown thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:45:31] [Region shutdown thread/INFO]: [RegionShutdownThread] Halting chunk systems
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:45:31] [Region shutdown thread/INFO]: [RegionShutdownThread] Halted chunk systems
+[01:45:31] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [0, 0] in world 'world'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.37s
+[01:45:31] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [0, 0] in world 'world_nether'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.14s
+[01:45:31] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving chunks around region around chunk [0, 0] in world 'world_the_end'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:45:31] [Region shutdown thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.11s
+[01:45:31] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving players

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 72.179.235.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733709004225
+  login: 1733706820521
+money: '0'
+last-account-name: chairisio
+logoutlocation:
+  world: 686cfdc4-911c-4639-a4ee-976b05e4a09c
+  world-name: world
+  x: 355.1245599017007
+  y: 77.0
+  z: 113.14368590650945
+  yaw: -3.5791015625
+  pitch: 42.18042755126953

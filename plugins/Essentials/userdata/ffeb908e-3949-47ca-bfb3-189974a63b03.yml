@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 184.17.164.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733711067872
+  login: 1733711061767
+money: '0'
+last-account-name: timembore
+logoutlocation:
+  world: 686cfdc4-911c-4639-a4ee-976b05e4a09c
+  world-name: world
+  x: 130.08666742475185
+  y: 83.0
+  z: 100.69709023727307
+  yaw: 109.45784759521484
+  pitch: 67.28436279296875

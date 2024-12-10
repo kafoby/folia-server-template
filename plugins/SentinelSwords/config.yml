@@ -1,0 +1,47 @@
+arena1:
+  p1:
+    world: world
+    x: 0
+    y: 64
+    z: 0
+    yaw: 0
+    pitch: 0
+  p2:
+    world: world
+    x: 10
+    y: 64
+    z: 0
+    yaw: 180
+    pitch: 0
+
+arena2:
+  p1:
+    world: world
+    x: 0
+    y: 64
+    z: 10
+    yaw: 0
+    pitch: 0
+  p2:
+    world: world
+    x: 10
+    y: 64
+    z: 10
+    yaw: 180
+    pitch: 0
+
+arena3:
+  p1:
+    world: world
+    x: 0
+    y: 64
+    z: -10
+    yaw: 0
+    pitch: 0
+  p2:
+    world: world
+    x: 10
+    y: 64
+    z: -10
+    yaw: 180
+    pitch: 0

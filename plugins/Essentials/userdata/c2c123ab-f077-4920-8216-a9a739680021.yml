@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.188.150.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733708579524
+  login: 1733707803840
+money: '0'
+last-account-name: pookanite
+logoutlocation:
+  world: d902c8be-4bb5-4a08-8bf4-c40691a94dca
+  world-name: world_nether
+  x: 153.69999998807907
+  y: 39.0
+  z: -144.0048630078995
+  yaw: 113.44921875
+  pitch: 26.249958038330078

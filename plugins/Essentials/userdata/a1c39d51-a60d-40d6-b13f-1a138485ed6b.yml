@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 72.26.41.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733706487148
+  login: 1733704388950
+money: '0'
+last-account-name: JayseyWasey
+logoutlocation:
+  world: 686cfdc4-911c-4639-a4ee-976b05e4a09c
+  world-name: world
+  x: -3004.2840300620646
+  y: 77.0
+  z: -1303.4465930560582
+  yaw: 46.0172119140625
+  pitch: 34.38001251220703

@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "kafoby",
+      "uniqueId": "ab1cbcd3-ee27-48e4-8d69-e1cdddbfbed5"
+    },
+    "time": 1733704951119,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GLuh6znVDi"
+    }
+  }
+]

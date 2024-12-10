@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.32.104.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733705405175
+  login: 1733704315781
+money: '0'
+last-account-name: Ch33zy_Carrot
+logoutlocation:
+  world: 686cfdc4-911c-4639-a4ee-976b05e4a09c
+  world-name: world
+  x: 2288.696697306247
+  y: 64.0
+  z: 2752.5586848092635
+  yaw: 93.271240234375
+  pitch: 12.1091947555542
