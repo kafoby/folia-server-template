@@ -1,6 +1,0 @@
-[October 21, 2024 16:26:22.698PM EDT]  PlayerPreTagEvent was triggered on kafoby by Via7 with type PLAYER, reason ATTACKER, and cancelled true.
-[October 21, 2024 16:26:22.702PM EDT]  PlayerPreTagEvent was triggered on Via7 by kafoby with type PLAYER, reason ATTACKED, and cancelled false.
-[October 21, 2024 16:26:22.712PM EDT]  PlayerTagEvent was triggered on Via7 by kafoby with type PLAYER and reason ATTACKED.
-[October 21, 2024 16:26:22.837PM EDT]  EntityDamageByEntityEvent was triggered by damaged PLAYER Via7, damager PLAYER kafoby and cancelled false.
-[October 21, 2024 16:26:32.836PM EDT]  PlayerPunishEvent was triggered on Via7 with reason EXPIRE and cancelled true.
-[October 21, 2024 16:26:32.837PM EDT]  PlayerUntagEvent was triggered on Via7 with reason EXPIRE and expire set to true.
